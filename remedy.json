@@ -1,0 +1,100 @@
+{
+  "Items" : [
+    {
+      "Item_name" : "Audio Visual/Video Conferencing",
+      "rating" : 1,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Business Application Request",
+      "rating" : 2,
+      "reviews" : 146,
+	  "Price" : "123"
+    },
+	{
+      "Item_name" : "Desktop Support Request",
+      "rating" : 5,
+      "reviews" : 12,
+	  "Price" : "50"
+    },
+	{
+      "Item_name" : "Email Problems",
+      "rating" : 4,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "General System Access Problems",
+      "rating" : 5,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Guest WiFi Request",
+      "rating" : 2,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+    {
+      "Item_name" : "IT Asset Request",
+      "rating" : 3,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Login Problems",
+      "rating" : 2,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Adjust Room Temperature",
+      "rating" : 1,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Building Problem",
+      "rating" : 5,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Ergonomic Assessment",
+      "rating" : 1,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Office Move",
+      "rating" : 2,
+      "reviews" : 146,
+	  "Price" : "123"
+    },
+	{
+      "Item_name" : "Order New Office Equipment",
+      "rating" : 2,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Other Move",
+      "rating" : 3,
+      "reviews" : 33,
+	  "Price" : "12"
+    },
+	{
+      "Item_name" : "MOther Request to Facilities",
+      "rating" : 3,
+      "reviews" : 146,
+	  "Price" : "0"
+    },
+	{
+      "Item_name" : "Parking Permit Request",
+      "rating" : 4,
+      "reviews" : 146,
+	  "Price" : "0"
+    }
+  ]
+}
